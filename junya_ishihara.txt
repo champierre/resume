@@ -1,0 +1,42 @@
+<center>'''履歴書'''</center>
+
+'''石原 淳也 '''[mailto:junya@champierre.com junya@champierre.com]
+
+ブログ: 僕は発展途上技術者 [http://blog.champierre.com/ http://blog.champierre.com]
+
+'''略歴'''
+
+* 2010/6 – デザイナー 前田和彦（前田製作所 [http://maedaseisaku.com/ http://maedaseisaku.com]）とともに「つくる社LLC」([http://tsukurusha.com/ http://tsukurusha.com])を設立。
+* 2006/11 フリーランスのプログラマーとして活動開始。
+* 2005/6 – 2006/10 [http://unoh.net/ ウノウ株式会社]。ディレクター。[http://photozou.jp/ フォト蔵]の英語化、[http://eigaseikatu.com/ 映画生活]のディレクション、開発全般に関わる。
+* 2004/10 - 2005/5 [http://www.genesyslab.co.jp/ ジェネシス・ジャパン株式会社]。テクニカルサポートエンジニア。
+* 2000/2 - 2004/9 [http://www.genesyslab.com/ Genesys Telecommunications Laboratories Inc.](ジェネシス本社。アメリカ、サンフランシスコ勤務)。 Internationalization Quality Assurance Engineer(ソフトウェアの国際化を担当)。
+* 1998/9 - 2000/1 [http://www.genesyslab.co.jp/ ジェネシス・ジャパン株式会社]。QA エンジニア（ソフトウェアの日本語化を担当)。
+* 1995/4 – 1998/8 iDC 国際デジタル通信株式会社。交換機エンジニア。
+* 1995/3 東京大学工学部機械情報工学科卒業
+
+'''受託開発の実績'''
+
+* 2009/10 [http://pdp-irp.org/ 肥厚性皮膚骨膜症 症例検索プロジェクト]
+* 2008/04 [http://pc.nikkeibp.co.jp/mobilemap/ モバイルマップ｜PC Online ビジネスパーソンのパソコン活用情報サイト]
+* 2008/01 [http://kodomo-kenkou.com/ 先天性甲状腺機能低下症の患者さんとご家族のための情報サイト]
+
+など。他の実績については[http://champierre.com/projects/business http://champierre.com/projects/business] をご参照ください。
+
+'''受賞歴'''
+
+* 「[http://libreq.net/ Libreq]」 読みたい本を図書館リクエスト。[http://calil.jp/doc/contest.html カーリルAPIコンテンスト]にて準グランプリを受賞
+* 「[http://blog.champierre.com/archives/579 英声]」 音声認識を利用した英単語クイズ。[http://jp.sun.com/mashupaward/3rd/award2.html Mashup Award 3rd] にて Skype 賞を受賞
+* 「[http://koetan.champierre.com/ 声探]」 音声認識レストラン検索サービス。[http://jp.sun.com/mashupaward/2nd/ Mashup Award 2nd] にてスカイプ賞を受賞
+* 「[http://odekake.mapeta.net/ おでかけマペタ]」。[http://itpro.nikkeibp.co.jp/article/NEWS/20060731/244792/ Drecom Award on Rails 2006] にて部門賞・審査員賞を受賞
+
+'''メディア掲載'''
+
+* 2007年 田口元の「ひとりで作るネットサービス」探訪：[http://bizmakoto.jp/bizid/articles/0705/23/news096.html 「弁当の買い出し」でPCの面白さに目覚めた – あとで行く・石原淳也さん]
+
+'''資格・語学'''
+
+* 2008年 [http://www.ruby-assn.org/ja/certification/examination.htm Ruby Association Certified Ruby Programmer Silver] 取得
+* TOEFL CBT 247 (2001年)。米企業サンフランシスコ本社にて4年間の勤務経験。
+
+
