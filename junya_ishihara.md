@@ -1,6 +1,6 @@
 #履歴書
-石原 淳也 <junya@champierre.com>
-ブログ: [僕は発展途上技術者](http://blog.champierre.com/)
+* 石原 淳也 <junya@champierre.com>
+* ブログ: [僕は発展途上技術者](http://blog.champierre.com/)
 
 ## 略歴
 * 2010/6 - [合同会社つくる社](http://tsukurusha.com/) 代表社員
@@ -19,9 +19,9 @@
 
 ## 受賞歴
 * Libreq 読みたい本を図書館リクエスト [カーリルAPIコンテンスト](http://calil.jp/doc/contest.html)にて準グランプリを受賞
-* 音声認識を利用した英単語クイズ [英声](http://blog.champierre.com/archives/579) [Mashup Award 3rd](http://jp.sun.com/mashupaward/3rd/award2.html)にてSkype賞を受賞
-* 音声認識レストラン検索サービス [声探](http://koetan.champierre.com/) [Mashup Award 2nd](http://jp.sun.com/mashupaward/2nd/) にてスカイプ賞を受賞
-* [おでかけマペタ](http://odekake.mapeta.net/) [Drecom Award on Rails 2006](http://itpro.nikkeibp.co.jp/article/NEWS/20060731/244792/)にて部門賞・審査員賞を受賞
+* [英声](http://blog.champierre.com/archives/579) 音声認識を利用した英単語クイズ [Mashup Award 3rd](http://jp.sun.com/mashupaward/3rd/award2.html)にてSkype賞を受賞
+* [声探](http://koetan.champierre.com/) 音声認識レストラン検索サービス [Mashup Award 2nd](http://jp.sun.com/mashupaward/2nd/) にてスカイプ賞を受賞
+* おでかけマペタ [Drecom Award on Rails 2006](http://itpro.nikkeibp.co.jp/article/NEWS/20060731/244792/)にて部門賞・審査員賞を受賞
 
 ## メディア掲載
 * 2011 [合同会社つくる社 石原淳也- 起業家インタビューのReLife(リライフ)](http://www.bb-relife.jp/interview/vol0386.html)
@@ -29,4 +29,4 @@
 
 ## 資格・語学
 * 2008 [Ruby Association Certified Ruby Programmer Silver](http://www.ruby-assn.org/ja/certification/examination.htm) 取得
-* 2001 TOEFL CBT 247。米企業サンフランシスコ本社にて4年間の勤務経験。
+* 2001 TOEFL CBT 247、米企業サンフランシスコ本社にて4年間の勤務経験
