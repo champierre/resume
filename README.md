@@ -1,5 +1,5 @@
 #履歴書
-* 石原 淳也 <webmaster@champierre.com>
+* 石原 淳也 <junya@champierre.com>
 * ブログ: [僕は発展途上技術者](http://blog.champierre.com/)
 
 ## 略歴
