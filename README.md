@@ -1,8 +1,9 @@
-#履歴書
+# 履歴書
 * 石原 淳也 <webmaster@champierre.com>
 * ブログ: [僕は発展途上技術者](http://blog.champierre.com/)
 
 ## 略歴
+* 2013/12 - [株式会社まちクエスト](http://machique.st) 代表取締役社長	
 * 2010/6 - [合同会社つくる社](http://tsukurusha.com/) 代表社員
 * 2006/11 - フリーランスでWebアプリ、iPhoneアプリ、Androidアプリなどを受託開発。
 * 2005/6 - 2006/10 ウノウ株式会社、ディレクター。[フォト蔵](http://photozou.jp/)の英語化、[映画生活](http://cinema.pia.co.jp/)ディレクションなどを担当。
@@ -11,6 +12,11 @@
 * 1998/9 - 2000/1 [ジェネシス・ジャパン株式会社](http://www.genesyslab.co.jp/) QA エンジニア（ソフトウェアの日本語化を担当)
 * 1995/4 – 1998/8 iDC 国際デジタル通信株式会社 交換機エンジニア
 * 1995/3 東京大学工学部機械情報工学科卒業
+
+## おもなプロダクト・サービス
+* [みんなでつくるクイズラリー「まちクエスト」](http://machique.st/)
+* [Amazonページから素早く図書館蔵書検索](http://libron.net)
+* [ことばであそぼう ひらがな知育ゲーム「かなぶん(カナブン)」](http://www.kanabun.org/)
 
 ## おもな受託開発の実績
 * 2011/09 [スクールプレゼンター教材共有サイト - スクプレ道場](http://schoolpresenter.jp/)
@@ -24,6 +30,7 @@
 * おでかけマペタ [Drecom Award on Rails 2006](http://itpro.nikkeibp.co.jp/article/NEWS/20060731/244792/)にて部門賞・審査員賞を受賞
 
 ## メディア掲載
+* 2014 [エンジニア＋エンジニア＝起業？「株式会社まちクエスト」の示すOver35歳キャリア](http://techwave.jp/archives/machi_quest_r35_carrie.html)
 * 2011 [合同会社つくる社 石原淳也- 起業家インタビューのReLife(リライフ)](http://www.bb-relife.jp/interview/vol0386.html)
 * 2007 田口元の「ひとりで作るネットサービス」探訪：[「弁当の買い出し」でPCの面白さに目覚めた – あとで行く・石原淳也さん](http://bizmakoto.jp/bizid/articles/0705/23/news096.html)
 
