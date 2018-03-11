@@ -6,7 +6,7 @@ WebサービスやiPhoneアプリの開発を行うかたわら、子供たち�
 
 株式会社まちクエスト代表取締役。 合同会社つくる社代表社員。
 
-[写真](https://dl.dropboxusercontent.com/u/385564/pictures/jishiha.jpg)
+[写真](//s3-ap-northeast-1.amazonaws.com/champierre-blog/images/images/000/000/042/blog/jishiha.jpg)
 
 - http://machique.st (まちクエスト)
 - http://blog.champierre.com (個人ブログ)
