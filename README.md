@@ -8,7 +8,7 @@
 * 2006/11 - フリーランスでWebアプリ、iPhoneアプリ、Androidアプリなどを受託開発。
 * 2005/6 - 2006/10 ウノウ株式会社、ディレクター。[フォト蔵](http://photozou.jp/)の英語化、[映画生活](http://cinema.pia.co.jp/)ディレクションなどを担当。
 * 2004/10 - 2005/5 [ジェネシス・ジャパン株式会社](http://www.genesyslab.co.jp/) テクニカルサポートエンジニア
-* 2000/2 - 2004/9 [Genesys Telecommunications Laboratories Inc.](http://www.genesyslab.com/)(ジェネシス本社、アメリカ、サンフランシスコ勤務) Internationalization Quality Assurance Engineer(ソフトウェアの国際化を担当)
+* 2000/2 - 2004/9 [Genesys Telecommunications Laboratories Inc.](http://www.genesyslab.com/)(Genesys本社、アメリカ、サンフランシスコ勤務) Internationalization Quality Assurance Engineer(ソフトウェアの国際化を担当)
 * 1998/9 - 2000/1 [ジェネシス・ジャパン株式会社](http://www.genesyslab.co.jp/) QA エンジニア（ソフトウェアの日本語化を担当)
 * 1995/4 – 1998/8 iDC 国際デジタル通信株式会社 交換機エンジニア
 * 1995/3 東京大学工学部機械情報工学科卒業
