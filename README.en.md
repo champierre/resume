@@ -1,6 +1,6 @@
 # Resume
 * Junya Ishihara <webmaster@champierre.com>
-* Blog: [http://blog.champierre.com/] (http://blog.champierre.com/)
+* Blog: http://blog.champierre.com/
 
 ## Bio
 * 2013/12 - [Machiquest] (http://machique.st) CEO
