@@ -3,7 +3,7 @@
 * ブログ: [僕は発展途上技術者](http://blog.champierre.com/)
 
 ## 略歴
-* 2013/12 - [株式会社まちクエスト](http://machique.st) 代表取締役社長	
+* 2013/12 - [株式会社まちクエスト](http://machique.st) 代表取締役社長
 * 2010/6 - [合同会社つくる社](http://tsukurusha.com/) 代表社員
 * 2006/11 - フリーランスでWebアプリ、iPhoneアプリ、Androidアプリなどを受託開発。
 * 2005/6 - 2006/10 ウノウ株式会社、ディレクター。[フォト蔵](http://photozou.jp/)の英語化、[映画生活](http://cinema.pia.co.jp/)ディレクションなどを担当。
@@ -14,9 +14,12 @@
 * 1995/3 東京大学工学部機械情報工学科卒業
 
 ## おもなプロダクト・サービス
-* [みんなでつくるクイズラリー「まちクエスト」](http://machique.st/)
+* [ML2Scratch](https://github.com/champierre/ml2scratch)
+* [S2AR](https://github.com/champierre/s2ar)
+* [みんなでつくるクイズラリー「まちクエスト」](http://machique.st)
+* [みんなでつくる案内板データベースー「Monumento」](http://monumen.to)
 * [Amazonページから素早く図書館蔵書検索](http://libron.net)
-* [ことばであそぼう ひらがな知育ゲーム「かなぶん(カナブン)」](http://www.kanabun.org/)
+* [ことばであそぼう ひらがな知育ゲーム「かなぶん(カナブン)」](https://itunes.apple.com/jp/app/%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AAgame-%E3%81%8B%E3%81%AA%E3%81%B6%E3%82%93/id312173421?mt=8)
 
 ## おもな受託開発の実績
 * 2011/09 [スクールプレゼンター教材共有サイト - スクプレ道場](http://schoolpresenter.jp/)
@@ -24,6 +27,7 @@
 * 2008/01 [先天性甲状腺機能低下症の患者さんとご家族のための情報サイト](http://kodomo-kenkou.com/)
 
 ## 受賞歴
+* [Monumento](http://monumen.to) [Mashup Awards オープンデータ部門賞](http://www.vled.or.jp/2014contest/award/index.html)にて試作部門賞を受賞
 * Libreq 読みたい本を図書館リクエスト [カーリルAPIコンテンスト](http://calil.jp/doc/contest.html)にて準グランプリを受賞
 * [英声](http://blog.champierre.com/archives/579) 音声認識を利用した英単語クイズ [Mashup Award 3rd](http://jp.sun.com/mashupaward/3rd/award2.html)にてSkype賞を受賞
 * [声探](http://koetan.champierre.com/) 音声認識レストラン検索サービス [Mashup Award 2nd](http://jp.sun.com/mashupaward/2nd/) にてスカイプ賞を受賞
