@@ -14,14 +14,16 @@
 * 1995/3 東京大学工学部機械情報工学科卒業
 
 ## おもなプロダクト・サービス
+* [TM2Scratch](https://forest.watch.impress.co.jp/docs/serial/progedu/1273286.html)
 * [ML2Scratch](https://github.com/champierre/ml2scratch)
-* [S2AR](https://github.com/champierre/s2ar)
 * [みんなでつくるクイズラリー「まちクエスト」](http://machique.st)
 * [みんなでつくる案内板データベースー「Monumento」](http://monumen.to)
 * [Amazonページから素早く図書館蔵書検索](http://libron.net)
 * [ことばであそぼう ひらがな知育ゲーム「かなぶん(カナブン)」](https://itunes.apple.com/jp/app/%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AAgame-%E3%81%8B%E3%81%AA%E3%81%B6%E3%82%93/id312173421?mt=8)
 
-## おもな受託開発の実績
+## おもな受託開発・業務委託の実績
+* 2020 [くらそうね - 解体工事一括見積もりサービス](https://www.crassone.jp/)のバックエンドの開発
+* 2016-2020 [Holoeyes - CTスキャンのデータをVRデバイス向け3Dデータに変換](https://holoeyes.jp/)のバックエンドの開発
 * 2011/09 [スクールプレゼンター教材共有サイト - スクプレ道場](http://schoolpresenter.jp/)
 * 2009/10 [Hanako アプリ](https://itunes.apple.com/jp/app/id409988078?mt=8)
 * 2008/01 [先天性甲状腺機能低下症の患者さんとご家族のための情報サイト](http://kodomo-kenkou.com/)
@@ -32,6 +34,11 @@
 * [英声](http://blog.champierre.com/archives/579) 音声認識を利用した英単語クイズ [Mashup Award 3rd](http://jp.sun.com/mashupaward/3rd/award2.html)にてSkype賞を受賞
 * [声探](http://koetan.champierre.com/) 音声認識レストラン検索サービス [Mashup Award 2nd](http://jp.sun.com/mashupaward/2nd/) にてスカイプ賞を受賞
 * おでかけマペタ [Drecom Award on Rails 2006](http://itpro.nikkeibp.co.jp/article/NEWS/20060731/244792/)にて部門賞・審査員賞を受賞
+
+## 著書
+* 2020 Scratchではじめる機械学習(https://www.amazon.co.jp/gp/product/4873119189/)
+* 2018 Scratchで楽しく学ぶ アート＆サイエンス(https://www.amazon.co.jp/gp/product/B07FCYWBS8/)
+* 2016 Raspberry Piではじめるどきどきプログラミング増補改訂第2版(https://www.amazon.co.jp/gp/product/B01LX5VY8B/)
 
 ## メディア掲載
 * 2014 [エンジニア＋エンジニア＝起業？「株式会社まちクエスト」の示すOver35歳キャリア](http://techwave.jp/archives/machi_quest_r35_carrie.html)
