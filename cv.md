@@ -2,6 +2,9 @@
 * 石原 淳也 <webmaster@champierre.com>
 
 ## 職務要約
+- 2000年 - 2004年の4年間、米サンフランシスコにてソフトウェアの国際化・QA(品質管理テスト)を担当。
+- 2005年から現在まで不動産、教育、公共事業、医療、エンターテイメントなど様々な分野でのWebおよびモバイルアプリケーションを開発。使用言語・フレームワークはRuby、Rails、JavaScript、jQuery、Objective C、Java、Python、PHP。
+- 2013年に株式会社まちクエストを起業。スマートフォンの位置情報を利用したクイズラリーを作成、楽しめる「[まちクエスト](https://machique.st/)」と、案内板を写真に撮ってテキスト化・共有できる「[Monumento](https://monumen.to/)」を開発・運用。スタンプラリーに替わるまち歩きイベントに活用できるとして、各自治体・青年会議所などに多数採用される。
 
 ## 職務経歴
 
@@ -27,3 +30,33 @@
 | 期間 | 業務内容 |
 | ---- | ---- |
 | 2005年6月 - 2006年10月 | 役割: ディレクター<br />業務内容: <ul><li>映画情報サイト「映画生活」の開発・運用</li><li>写真・動画共有サイト「フォト蔵」の開発・運用</li> |
+
+2006年11月 - 2010年5月 個人事業主<br />
+事業内容: インターネットサービス・アプリケーションの開発・運用
+
+| 期間 | 業務内容 |
+| ---- | ---- |
+| 2007年12月 - 現在 | [外国人の名前を漢字に変換するウェブサービス Kanji-Fandom](http://kanji-fandom.herokuapp.com/) 開発(Ruby on Rails/ReactJS)・運用 |
+| 2008年1月 - 現在 | [先天性甲状腺機能低下症の患者さんとご家族のための情報サイト](http://kodomo-kenkou.com/) 開発(Ruby on Rails)・運用 |
+| 2008年12月 - 2009月4月 | [三鷹市ファミリーサポートシステム](https://www.kosodate.mitaka.ne.jp/shien/famisapo/) 開発(Ruby on Rails) |
+| 2009年10月 | iOS アプリ/Android アプリ [Hanako magazine](https://itunes.apple.com/jp/app/id409988078?mt=8) 開発(Objective C/Java/Python) |
+| 2010年 - 現在 | 東京大学生産技術研究所 竹内昌治研究室 オーダー管理システム 開発(Ruby on Rails)・運用 |
+
+2010年5月 - 現在 合同会社つくる社<br />
+事業内容: インターネットサービス・アプリケーションの開発・運用
+
+| 期間 | 業務内容 |
+| ---- | ---- |
+| 2011月9月 - 現在 | [スクールプレゼンター教材共有サイト - スクプレ道場](http://schoolpresenter.jp/) 開発(Ruby on Rails)・運用 |
+| 2010年9月 - 現在 | [日経BP 不動産売買データベース ディールサーチ](https://ds.project.nikkeibp.co.jp/) 開発(Ruby on Rails/jQuery)・運用 |
+| 2015年9月 - 2017年5月 | 医療・診察予約システム[3Bees](https://www.3bees.com/) 開発(Ruby on Rails/Ember.js)
+| 2017年6月-2020年10月 | [Holoeyes - CTスキャンのデータをVRデバイス向け3Dデータに変換](https://holoeyes.jp/)のバックエンドの開発(Ruby on Rails) |
+| 2020年1月 - 現在 | [くらそうね - 解体工事一括見積もりサービス](https://www.crassone.jp/)のバックエンドの開発(Ruby on Rails) |
+
+2013年 - 現在 株式会社まちクエスト<br />
+事業内容: 位置情報を利用したインターネットサービス・アプリケーションの開発・運用
+
+| 期間 | 業務内容 |
+| ---- | ---- |
+| 2013年 - 現在 | スマートフォン向けクイズラリーサービス [まちクエスト](https://machique.st/) 開発(Ruby on Rails)・運用 |
+| 2014年 - 現在 | 案内板を写真に撮ってテキスト化・共有 [Monumento](https://monumen.to/) 開発(Ruby on Rails)・運用 |
