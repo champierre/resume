@@ -17,12 +17,13 @@
 * 2013/12 - [株式会社まちクエスト](http://machique.st) 代表取締役社長
 
 ## おもなプロダクト・サービス
-* [ことばであそぼう ひらがな知育ゲーム「かなぶん(カナブン)」](https://itunes.apple.com/jp/app/%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AAgame-%E3%81%8B%E3%81%AA%E3%81%B6%E3%82%93/id312173421?mt=8)
-* [Amazonページから素早く図書館蔵書検索](http://libron.net)
-* [みんなでつくる案内板データベースー「Monumento」](http://monumen.to)
-* [みんなでつくるクイズラリー「まちクエスト」](http://machique.st)
-* [ML2Scratch](https://github.com/champierre/ml2scratch)
+
 * [TM2Scratch](https://forest.watch.impress.co.jp/docs/serial/progedu/1273286.html)
+* [ML2Scratch](https://github.com/champierre/ml2scratch)
+* [みんなでつくるクイズラリー「まちクエスト」](http://machique.st)
+* [みんなでつくる案内板データベースー「Monumento」](http://monumen.to)
+* [Amazonページから素早く図書館蔵書検索](http://libron.net)
+* [ことばであそぼう ひらがな知育ゲーム「かなぶん(カナブン)」](https://itunes.apple.com/jp/app/%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AAgame-%E3%81%8B%E3%81%AA%E3%81%B6%E3%82%93/id312173421?mt=8)
 
 ## おもな受託開発・業務委託の実績
 * 2008/1 [先天性甲状腺機能低下症の患者さんとご家族のための情報サイト](http://kodomo-kenkou.com/)
@@ -30,7 +31,8 @@
 * 2009/10 [Hanako アプリ](https://itunes.apple.com/jp/app/id409988078?mt=8)
 * 2011/9 [スクールプレゼンター教材共有サイト - スクプレ道場](http://schoolpresenter.jp/)
 * 2017-2020 [Holoeyes - CTスキャンのデータをVRデバイス向け3Dデータに変換](https://holoeyes.jp/)のバックエンドの開発
-* 2020 [くらそうね - 解体工事一括見積もりサービス](https://www.crassone.jp/)のバックエンドの開発
+* 2020-2022 [くらそうね - 解体工事一括見積もりサービス](https://www.crassone.jp/)のバックエンドの開発
+* 2022- [株式会社Geolonia](https://geolonia.com/)にて[住所オープンデータ](https://github.com/geolonia/japanese-addresses)などの開発を担当
 
 ## 受賞歴
 * おでかけマペタ [Drecom Award on Rails 2006](http://itpro.nikkeibp.co.jp/article/NEWS/20060731/244792/)にて部門賞・審査員賞を受賞
@@ -43,6 +45,7 @@
 * 2016 Raspberry Piではじめるどきどきプログラミング増補改訂第2版(https://www.amazon.co.jp/gp/product/B01LX5VY8B/)(共著)
 * 2018 Scratchで楽しく学ぶ アート＆サイエンス(https://www.amazon.co.jp/gp/product/B07FCYWBS8/)
 * 2020 Scratchではじめる機械学習(https://www.amazon.co.jp/gp/product/4873119189/)(共著)
+* 2022 Scratchであそぶ機械学習(https://www.amazon.co.jp/gp/product/4873119960/)(共著)
 
 ## メディア掲載
 * 2007 田口元の「ひとりで作るネットサービス」探訪：[「弁当の買い出し」でPCの面白さに目覚めた – あとで行く・石原淳也さん](http://bizmakoto.jp/bizid/articles/0705/23/news096.html)
