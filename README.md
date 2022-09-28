@@ -26,7 +26,7 @@
 * [ことばであそぼう ひらがな知育ゲーム「かなぶん(カナブン)」](https://itunes.apple.com/jp/app/%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AAgame-%E3%81%8B%E3%81%AA%E3%81%B6%E3%82%93/id312173421?mt=8)
 
 ## おもな受託開発・業務委託の実績
-* 2008/1 [先天性甲状腺機能低下症の患者さんとご家族のための情報サイト](http://kodomo-kenkou.com/)
+* 2008/1 [先天性甲状腺機能低下症の患者さんとご家族のための情報サイト](https://champierre.github.io/kodomo-kenkou/)
 * 2008/12 [三鷹市ファミリーサポートシステム](https://www.kosodate.mitaka.ne.jp/shien/famisapo/)
 * 2009/10 [Hanako アプリ](https://itunes.apple.com/jp/app/id409988078?mt=8)
 * 2011/9 [スクールプレゼンター教材共有サイト - スクプレ道場](http://schoolpresenter.jp/)

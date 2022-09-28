@@ -24,4 +24,4 @@
 ## Contract development
 * 2011/09 School Presenter Dojo(http://schoolpresenter.jp/)
 * 2009/10 Hanako(https://itunes.apple.com/jp/app/id409988078?mt=8)
-* 2008/01 Kodomo Kenkou Club(http://kodomo-kenkou.com/)
+* 2008/01 Kodomo Kenkou Club(https://champierre.github.io/kodomo-kenkou/)
