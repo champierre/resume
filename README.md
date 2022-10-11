@@ -30,7 +30,11 @@
 * 2008/1 [先天性甲状腺機能低下症の患者さんとご家族のための情報サイト](https://champierre.github.io/kodomo-kenkou/)
 * 2008/12 [三鷹市ファミリーサポートシステム](https://www.kosodate.mitaka.ne.jp/shien/famisapo/)
 * 2009/10 [Hanako アプリ](https://itunes.apple.com/jp/app/id409988078?mt=8)
+* 2009/7-2010/1 [株式会社gumi](https://gu3.co.jp/)にてmixiアプリの開発
+* 2010/7-2010/10 [株式会社じげん](https://zigexn.co.jp/)にて不動産賃貸住宅情報サービスの開発
 * 2011/9 [スクールプレゼンター教材共有サイト - スクプレ道場](http://schoolpresenter.jp/)
+* 2014-2015 [株式会社ネクスウェイ](https://www.nexway.co.jp/)にてFAX・メール一斉送信サービスの開発
+* 2015-2017 [株式会社メディ・ウェブ](http://www.mediweb.jp/)にて医療機関向け診療業務支援アプリケーションの開発
 * 2017-2020 [Holoeyes - CTスキャンのデータをVRデバイス向け3Dデータに変換](https://holoeyes.jp/)のバックエンドの開発
 * 2020-2022 [くらそうね - 解体工事一括見積もりサービス](https://www.crassone.jp/)のバックエンドの開発
 * 2022- [株式会社Geolonia](https://geolonia.com/)にて[住所オープンデータ](https://github.com/geolonia/japanese-addresses)などの開発を担当
