@@ -23,7 +23,7 @@
 * [ML2Scratch](https://github.com/champierre/ml2scratch)
 * [みんなでつくるクイズラリー「まちクエスト」](http://machique.st)
 * [みんなでつくる案内板データベースー「Monumento」](http://monumen.to)
-* [Amazonページから素早く図書館蔵書検索](http://libron.net)
+* [Amazonページから素早く図書館蔵書検索「Libron」](http://libron.net)
 * [ことばであそぼう ひらがな知育ゲーム「かなぶん(カナブン)」](https://itunes.apple.com/jp/app/%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AAgame-%E3%81%8B%E3%81%AA%E3%81%B6%E3%82%93/id312173421?mt=8)
 
 ## おもな受託開発・業務委託の実績
@@ -47,10 +47,10 @@
 * [Monumento](http://monumen.to) [Mashup Awards オープンデータ部門賞](http://www.vled.or.jp/2014contest/award/index.html)にて試作部門賞を受賞
 
 ## 著書
-* 2016 Raspberry Piではじめるどきどきプログラミング増補改訂第2版(https://www.amazon.co.jp/gp/product/B01LX5VY8B/)(共著)
-* 2018 Scratchで楽しく学ぶ アート＆サイエンス(https://www.amazon.co.jp/gp/product/B07FCYWBS8/)
-* 2020 Scratchではじめる機械学習(https://www.amazon.co.jp/gp/product/4873119189/)(共著)
-* 2022 Scratchであそぶ機械学習(https://www.amazon.co.jp/gp/product/4873119960/)(共著)
+* 2016 [Raspberry Piではじめるどきどきプログラミング増補改訂第2版](https://www.amazon.co.jp/gp/product/B01LX5VY8B/)(共著)
+* 2018 [Scratchで楽しく学ぶ アート＆サイエンス](https://www.amazon.co.jp/gp/product/B07FCYWBS8/)
+* 2020 [Scratchではじめる機械学習](https://www.amazon.co.jp/gp/product/4873119189/) (共著)
+* 2022 [Scratchであそぶ機械学習](https://www.amazon.co.jp/gp/product/4873119960/) (共著)
 
 ## メディア掲載
 * 2007 田口元の「ひとりで作るネットサービス」探訪：[「弁当の買い出し」でPCの面白さに目覚めた – あとで行く・石原淳也さん](http://bizmakoto.jp/bizid/articles/0705/23/news096.html)
