@@ -15,6 +15,7 @@
 * 2006/11 - 個人事業主でWebアプリ、iPhoneアプリ、Androidアプリなどを受託開発。
 * 2010/6 - [合同会社つくる社](http://tsukurusha.com/) 代表社員
 * 2013/12 - [株式会社まちクエスト](http://machique.st) 代表取締役社長
+* 2022/5 - [株式会社Geolonia](https://geolonia.com/) エンジニア
 
 ## おもなプロダクト・サービス
 * [ことばであそぼう ひらがな知育ゲーム「かなぶん(カナブン)」](https://itunes.apple.com/jp/app/%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AAgame-%E3%81%8B%E3%81%AA%E3%81%B6%E3%82%93/id312173421?mt=8)
