@@ -2,6 +2,7 @@
 * 石原 淳也（いしはら じゅんや）<webmaster@champierre.com>
 * ブログ: [僕は発展途上技術者](http://blog.champierre.com/)
 * Twitter: [@jishiha](https://twitter.com/jishiha)
+* LinkedIn: [https://www.linkedin.com/in/jishiha/](https://www.linkedin.com/in/jishiha/)
 
 ## 略歴
 * 1988/3 筑波大学附属駒場中学校卒業
