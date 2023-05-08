@@ -13,10 +13,10 @@
 * 2000/2 - 2004/9 [Genesys Telecommunications Laboratories Inc.](http://www.genesyslab.com/)(Genesys本社、アメリカ、サンフランシスコ勤務) Internationalization Quality Assurance Engineer(ソフトウェアの国際化を担当)
 * 2004/10 - 2005/5 [ジェネシス・ジャパン株式会社](http://www.genesyslab.co.jp/) テクニカルサポートエンジニア
 * 2005/6 - 2006/10 ウノウ株式会社、ディレクター。[フォト蔵](http://photozou.jp/)の英語化、[映画生活](http://cinema.pia.co.jp/)ディレクションなどを担当。
+* 2022/5 - 2023/4 [株式会社Geolonia](https://geolonia.com/) エンジニア
 * 2006/11 - 個人事業主でWebアプリ、iPhoneアプリ、Androidアプリなどを受託開発。
 * 2010/6 - [合同会社つくる社](http://tsukurusha.com/) 代表社員
 * 2013/12 - [株式会社まちクエスト](http://machique.st) 代表取締役社長
-* 2022/5 - [株式会社Geolonia](https://geolonia.com/) エンジニア
 
 ## おもなプロダクト・サービス
 
