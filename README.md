@@ -21,6 +21,7 @@
 ## おもなプロダクト・サービス
 
 * [TM2Scratch](https://forest.watch.impress.co.jp/docs/serial/progedu/1273286.html)
+* [PoseNet2Scratch](https://github.com/champierre/posenet2scratch)
 * [ML2Scratch](https://github.com/champierre/ml2scratch)
 * [みんなでつくるクイズラリー「まちクエスト」](http://machique.st)
 * [みんなでつくる案内板データベースー「Monumento」](http://monumen.to)
@@ -38,7 +39,8 @@
 * 2015-2017 [株式会社メディ・ウェブ](http://www.mediweb.jp/)にて医療機関向け診療業務支援アプリケーションの開発
 * 2017-2020 [Holoeyes - CTスキャンのデータをVRデバイス向け3Dデータに変換](https://holoeyes.jp/)のバックエンドの開発
 * 2020-2022 [くらそうね - 解体工事一括見積もりサービス](https://www.crassone.jp/)のバックエンドの開発
-* 2022- [株式会社Geolonia](https://geolonia.com/)にて[住所オープンデータ](https://github.com/geolonia/japanese-addresses)などの開発を担当
+* 2022-2023 [株式会社Geolonia](https://geolonia.com/)にて[住所オープンデータ](https://github.com/geolonia/japanese-addresses)などの開発を担当
+* 2023- [請求もれを防ぐアプリ 保険簿](https://hokenbo.com/)のバックエンドの開発
 
 ## 受賞歴
 * おでかけマペタ [Drecom Award on Rails 2006](http://itpro.nikkeibp.co.jp/article/NEWS/20060731/244792/)にて部門賞・審査員賞を受賞
@@ -51,6 +53,7 @@
 * 2016 [Raspberry Piではじめるどきどきプログラミング増補改訂第2版](https://www.amazon.co.jp/gp/product/B01LX5VY8B/)(共著)
 * 2018 [Scratchで楽しく学ぶ アート＆サイエンス](https://www.amazon.co.jp/gp/product/B07FCYWBS8/)
 * 2020 [Scratchではじめる機械学習](https://www.amazon.co.jp/gp/product/4873119189/) (共著)
+* 2020 [土日で学べる「AI&自動化」プログラミング](https://info.nikkeibp.co.jp/media/NSW/atcl/books/062200043/) (第1〜3章 執筆)
 * 2022 [Scratchであそぶ機械学習](https://www.amazon.co.jp/gp/product/4873119960/) (共著)
 
 ## メディア掲載
@@ -62,3 +65,40 @@
 ## 資格・語学
 * 2001 TOEFL CBT 247、米企業サンフランシスコ本社にて4年間の勤務経験
 * 2008 [Ruby Association Certified Ruby Programmer Silver](http://www.ruby-assn.org/ja/certification/examination.htm) 取得
+
+## 雑誌記事・寄稿
+
+* 2017/09/15 [情報教育とワークショップ：8．「自律」と「協調」で広がるオープンなプログラミングワークショップCoderDojo(情報処理学会 会誌「情報処理」寄稿)](http://id.nii.ac.jp/1001/00183250/)
+* 2021/03/22 [拡張機能ML2Scratchで手書き文字認識(CQ出版社雑誌 Interface 記事掲載)](https://interface.cqpub.co.jp/magazine/202105/)
+
+## 登壇・講演
+
+* 2014/04/23 [位置情報を使ったクイズラリーサービスまちクエスト(多摩大学田中雄ゼミ 講演)](https://src.tama.ac.jp/files/1095.pdf)
+* 2017/06/07 [Hybrid iOS & Android apps with Rails(Tokyo Rubyist Meetup 登壇)](https://trbmeetup.doorkeeper.jp/events/60637)
+* 2018/07/25 [Introducing Scratch to Rubyists(Tokyo Rubyist Meetup 登壇)](https://trbmeetup.doorkeeper.jp/events/77042)
+* 2020/03/22 [ML2Scratchと機械学習(琉球大学 シンポジウム講演)](https://www.gender.jim.u-ryukyu.ac.jp/db/wp-content/uploads/2020/03/jigyouhoukoku_sentan001.pdf)
+* 2020/04/15 [TensorFlow.js Community Show & Tell #1(登壇)](https://twitter.com/obenjiro/status/1250144897476300807)
+* 2020/12/27 [作りながら楽しく学ぶAIプログラミング(DojoCon Japan 2020 基調講演)](https://dojocon2020.coderdojo.jp/session)
+
+## 出展・ワークショップ
+
+* 2011/12/05 [Make: Tokyo Meeting 07(スクラッチを使って親子でつくる体感ゲーム 出展)](https://www.oreilly.co.jp/pub/make/MTM07_makers.pdf)
+* 2018/03/31 [I-O DATA全国プログラミングキャラバン「プログラミング体験教室 -金沢-」(こども向けワークショップ講師)](https://www.iodata.jp/news/2018/information/programkanazawa.htm)
+* 2018/08/07 [Maker Faire Hong Kong(ML2Scratch 出展)](https://makerfairehongkong.com/2018pre/event-day/guidemap/gmcorecd/)
+* 2018/08/17 [Maker Faire Singapore(ML2Scratch 出展)](https://blog.champierre.com/1137)
+* 2018/08/26 [調布市、CoderDojo調布共催 小学生向けプログラミング入門講座(ワークショップ講師)](https://www.city.chofu.tokyo.jp/www/contents/1637728287309/simple/300805_1.pdf)
+* 2018/11/14 [Maker Faire Taipei(ML2Scratch 出展)](https://blog.champierre.com/1143)
+* 2019/03/24 [調布市、CoderDojo調布共催 小学生向けプログラミング入門講座(ワークショップ講師)](https://www.city.chofu.tokyo.jp/www/contents/1639111007252/simple/310305_0001.pdf)
+* 2019/08/25 [調布市、CoderDojo調布共催 小学生向けプログラミング入門講座(ワークショップ講師)](https://www.city.chofu.tokyo.jp/www/contents/1639111007252/simple/R000805_1.pdf)
+* 2019/10/28 [Maker Carnival Shanghai 2019(ML2Scratch 出展)](https://blog.champierre.com/1158)
+* 2019/12/22 [Afrel ロボ・キャンプ 2019 機械学習 × ScratchでAI（人工知能）アプリケーションを作ってみよう！(親子向けワークショップ講師)](https://afrel.co.jp/social/robocamp/2019_camp/result/)
+* 2023/03/26 [調布市、CoderDojo調布共催 小学生向けプログラミング&AI入門講座(ワークショップ講師)](https://www.city.chofu.tokyo.jp/www/contents/1677732923720/simple/s230305_05.pdf)
+
+## その他
+
+* 2019 [NHK for School Why!?プログラミングフェス2019 作品の開発ツール(ML2Scratch)提供および技術協力](https://www2.nhk.or.jp/school/watch/outline/?das_id=D0005180350_00000)
+* 2020 [文科省/総務省/経済産業省 みらプロ 指導案に登場する開発ツール(TM2Scratch)提供](https://mirapro.mext.go.jp/lp_google.html)
+* 2020 [Google キッズ AI プログラミングコンテスト 2020 において開発ツール(ML2Scratch)の提供](https://japan.googleblog.com/2020/07/ai-kids-programming-contest.html)
+* 2021 [Google キッズ AI プログラミングコンテスト 2021 において開発ツール(TM2Scratch)および資料の提供](https://japan.googleblog.com/2021/04/ai-kids-programming-2021_27.html)
+* 2023 [NHK for School Why!?プログラミング カワイイアニマルを喜ばせよう！ 開発ツール(Speech2Scratch)提供](https://www2.nhk.or.jp/school/watch/outline/?das_id=D0005180517_00000)
+* 2023 [NHK for School Why!?プログラミング スーパージェイソンマンに変身させよう！ 開発ツール(PoseNet2Scratch/ML2Scratch)提供](https://www2.nhk.or.jp/school/watch/bangumi/?das_id=D0005180518_00000)
