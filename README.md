@@ -14,8 +14,8 @@
 * 2000/2 - 2004/9 [Genesys Telecommunications Laboratories Inc.](http://www.genesyslab.com/)(Genesys本社、アメリカ、サンフランシスコ勤務) Internationalization Quality Assurance Engineer(ソフトウェアの国際化を担当)
 * 2004/10 - 2005/5 [ジェネシス・ジャパン株式会社](http://www.genesyslab.co.jp/) テクニカルサポートエンジニア
 * 2005/6 - 2006/10 ウノウ株式会社、ディレクター。[フォト蔵](http://photozou.jp/)の英語化、[映画生活](http://cinema.pia.co.jp/)ディレクションなどを担当。
+* 2006/11 - 2010/5 個人事業主でWebアプリ、iPhoneアプリ、Androidアプリなどを受託開発。
 * 2022/5 - 2023/4 [株式会社Geolonia](https://geolonia.com/) エンジニア
-* 2006/11 - 個人事業主でWebアプリ、iPhoneアプリ、Androidアプリなどを受託開発。
 * 2010/6 - [合同会社つくる社](http://tsukurusha.com/) 代表社員
 * 2013/12 - [株式会社まちクエスト](http://machique.st) 代表取締役社長
 
@@ -51,11 +51,11 @@
 * [Monumento](http://monumen.to) [Mashup Awards オープンデータ部門賞](http://www.vled.or.jp/2014contest/award/index.html)にて試作部門賞を受賞
 
 ## 著書
-* 2016 [Raspberry Piではじめるどきどきプログラミング増補改訂第2版](https://www.amazon.co.jp/gp/product/B01LX5VY8B/)(共著)
-* 2018 [Scratchで楽しく学ぶ アート＆サイエンス](https://www.amazon.co.jp/gp/product/B07FCYWBS8/)
-* 2020 [Scratchではじめる機械学習](https://www.amazon.co.jp/gp/product/4873119189/) (共著)
-* 2020 [土日で学べる「AI&自動化」プログラミング](https://info.nikkeibp.co.jp/media/NSW/atcl/books/062200043/) (第1〜3章 執筆)
-* 2022 [Scratchであそぶ機械学習](https://www.amazon.co.jp/gp/product/4873119960/) (共著)
+* 2016/07 [Raspberry Piではじめるどきどきプログラミング増補改訂第2版](https://www.amazon.co.jp/gp/product/B01LX5VY8B/)(共著)
+* 2018/07 [Scratchで楽しく学ぶ アート＆サイエンス](https://www.amazon.co.jp/dp/4822292339)
+* 2020/06 [土日で学べる「AI&自動化」プログラミング](https://info.nikkeibp.co.jp/media/NSW/atcl/books/062200043/) (第1〜3章 執筆)
+* 2020/07 [Scratchではじめる機械学習](https://www.amazon.co.jp/gp/product/4873119189/) (共著)
+* 2022/07 [Scratchであそぶ機械学習](https://www.amazon.co.jp/gp/product/4873119960/) (共著)
 
 ## メディア掲載
 * 2007 田口元の「ひとりで作るネットサービス」探訪：[「弁当の買い出し」でPCの面白さに目覚めた – あとで行く・石原淳也さん](http://bizmakoto.jp/bizid/articles/0705/23/news096.html)
