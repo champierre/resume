@@ -6,18 +6,18 @@
 * LinkedIn: [https://www.linkedin.com/in/jishiha/](https://www.linkedin.com/in/jishiha/)
 
 ## 略歴
-* 1988/3 筑波大学附属駒場中学校卒業
-* 1991/3 筑波大学附属駒場高等学校卒業
-* 1995/3 東京大学工学部機械情報工学科卒業
-* 1995/4 – 1998/8 iDC 国際デジタル通信株式会社 交換機エンジニア
-* 1998/9 - 2000/1 [ジェネシス・ジャパン株式会社](http://www.genesyslab.co.jp/) QA エンジニア（ソフトウェアの日本語化を担当)
-* 2000/2 - 2004/9 [Genesys Telecommunications Laboratories Inc.](http://www.genesyslab.com/)(Genesys本社、アメリカ、サンフランシスコ勤務) Internationalization Quality Assurance Engineer(ソフトウェアの国際化を担当)
-* 2004/10 - 2005/5 [ジェネシス・ジャパン株式会社](http://www.genesyslab.co.jp/) テクニカルサポートエンジニア
-* 2005/6 - 2006/10 ウノウ株式会社、ディレクター。[フォト蔵](http://photozou.jp/)の英語化、[映画生活](http://cinema.pia.co.jp/)ディレクションなどを担当。
-* 2006/11 - 2010/5 個人事業主でWebアプリ、iPhoneアプリ、Androidアプリなどを受託開発。
-* 2022/5 - 2023/4 [株式会社Geolonia](https://geolonia.com/) エンジニア
-* 2010/6 - [合同会社つくる社](http://tsukurusha.com/) 代表社員
-* 2013/12 - [株式会社まちクエスト](http://machique.st) 代表取締役社長
+* 1988/03 筑波大学附属駒場中学校卒業
+* 1991/03 筑波大学附属駒場高等学校卒業
+* 1995/03 東京大学工学部機械情報工学科卒業
+* 1995/04 – 1998/08 iDC 国際デジタル通信株式会社 交換機エンジニア
+* 1998/09 - 2000/01 [ジェネシス・ジャパン株式会社](http://www.genesyslab.co.jp/) QA エンジニア（ソフトウェアの日本語化を担当)
+* 2000/02 - 2004/09 [Genesys Telecommunications Laboratories Inc.](http://www.genesyslab.com/)(Genesys本社、アメリカ、サンフランシスコ勤務) Internationalization Quality Assurance Engineer(ソフトウェアの国際化を担当)
+* 2004/10 - 2005/05 [ジェネシス・ジャパン株式会社](http://www.genesyslab.co.jp/) テクニカルサポートエンジニア
+* 2005/06 - 2006/10 ウノウ株式会社、ディレクター。[フォト蔵](http://photozou.jp/)の英語化、[映画生活](http://cinema.pia.co.jp/)ディレクションなどを担当。
+* 2006/11 - 2010/05 個人事業主でWebアプリ、iPhoneアプリ、Androidアプリなどを受託開発。
+* 2022/05 - 2023/04 [株式会社Geolonia](https://geolonia.com/) エンジニア
+* 2010/06 - 現在 [合同会社つくる社](http://tsukurusha.com/) 代表社員
+* 2013/12 - 現在 [株式会社まちクエスト](http://machique.st) 代表取締役社長
 
 ## おもなプロダクト・サービス
 
@@ -30,18 +30,18 @@
 * [ことばであそぼう ひらがな知育ゲーム「かなぶん(カナブン)」](https://itunes.apple.com/jp/app/%E3%81%B2%E3%82%89%E3%81%8C%E3%81%AAgame-%E3%81%8B%E3%81%AA%E3%81%B6%E3%82%93/id312173421?mt=8)
 
 ## おもな受託開発・業務委託の実績
-* 2008/1 [先天性甲状腺機能低下症の患者さんとご家族のための情報サイト](https://champierre.github.io/kodomo-kenkou/)
+* 2008/01 [先天性甲状腺機能低下症の患者さんとご家族のための情報サイト](https://champierre.github.io/kodomo-kenkou/)
 * 2008/12 [三鷹市ファミリーサポートシステム](https://www.kosodate.mitaka.ne.jp/shien/famisapo/)
 * 2009/10 [Hanako アプリ](https://itunes.apple.com/jp/app/id409988078?mt=8)
-* 2009/7-2010/1 [株式会社gumi](https://gu3.co.jp/)にてmixiアプリの開発
-* 2010/7-2010/10 [株式会社じげん](https://zigexn.co.jp/)にて不動産賃貸住宅情報サービスの開発
-* 2011/9 [スクールプレゼンター教材共有サイト - スクプレ道場](http://schoolpresenter.jp/)
-* 2014-2015 [株式会社ネクスウェイ](https://www.nexway.co.jp/)にてFAX・メール一斉送信サービスの開発
-* 2015-2017 [株式会社メディ・ウェブ](http://www.mediweb.jp/)にて医療機関向け診療業務支援アプリケーションの開発
-* 2017-2020 [Holoeyes - CTスキャンのデータをVRデバイス向け3Dデータに変換](https://holoeyes.jp/)のバックエンドの開発
-* 2020-2022 [くらそうね - 解体工事一括見積もりサービス](https://www.crassone.jp/)のバックエンドの開発
-* 2022-2023 [株式会社Geolonia](https://geolonia.com/)にて[住所オープンデータ](https://github.com/geolonia/japanese-addresses)などの開発を担当
-* 2023- [請求もれを防ぐアプリ 保険簿](https://hokenbo.com/)のバックエンドの開発
+* 2009/07 - 2010/01 [株式会社gumi](https://gu3.co.jp/)にてmixiアプリの開発
+* 2010/07 - 2010/10 [株式会社じげん](https://zigexn.co.jp/)にて不動産賃貸住宅情報サービスの開発
+* 2011/09 [スクールプレゼンター教材共有サイト - スクプレ道場](http://schoolpresenter.jp/)
+* 2014 - 2015 [株式会社ネクスウェイ](https://www.nexway.co.jp/)にてFAX・メール一斉送信サービスの開発
+* 2015 - 2017 [株式会社メディ・ウェブ](http://www.mediweb.jp/)にて医療機関向け診療業務支援アプリケーションの開発
+* 2017 - 2020 [Holoeyes - CTスキャンのデータをVRデバイス向け3Dデータに変換](https://holoeyes.jp/)のバックエンドの開発
+* 2020 - 2022 [くらそうね - 解体工事一括見積もりサービス](https://www.crassone.jp/)のバックエンドの開発
+* 2022 - 2023 [株式会社Geolonia](https://geolonia.com/)にて[住所オープンデータ](https://github.com/geolonia/japanese-addresses)などの開発を担当
+* 2023 - 現在 [請求もれを防ぐアプリ 保険簿](https://hokenbo.com/)のバックエンドの開発
 
 ## 受賞歴
 * おでかけマペタ [Drecom Award on Rails 2006](http://itpro.nikkeibp.co.jp/article/NEWS/20060731/244792/)にて部門賞・審査員賞を受賞
