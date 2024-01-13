@@ -74,26 +74,26 @@
 
 ## 登壇・講演
 
-* 2014/04/23 [位置情報を使ったクイズラリーサービスまちクエスト(多摩大学田中雄ゼミ 講演)](https://src.tama.ac.jp/files/1095.pdf)
-* 2017/06/07 [Hybrid iOS & Android apps with Rails(Tokyo Rubyist Meetup 登壇)](https://trbmeetup.doorkeeper.jp/events/60637)
-* 2018/07/25 [Introducing Scratch to Rubyists(Tokyo Rubyist Meetup 登壇)](https://trbmeetup.doorkeeper.jp/events/77042)
-* 2020/03/22 [ML2Scratchと機械学習(琉球大学 シンポジウム講演)](https://www.gender.jim.u-ryukyu.ac.jp/db/wp-content/uploads/2020/03/jigyouhoukoku_sentan001.pdf)
-* 2020/04/15 [TensorFlow.js Community Show & Tell #1(登壇)](https://twitter.com/obenjiro/status/1250144897476300807)
-* 2020/12/27 [作りながら楽しく学ぶAIプログラミング(DojoCon Japan 2020 基調講演)](https://dojocon2020.coderdojo.jp/session)
+* 2014/04/23 [(講演)「位置情報を使ったクイズラリーサービスまちクエスト」多摩大学 田中雄ゼミ](https://src.tama.ac.jp/files/1095.pdf)
+* 2017/06/07 [(登壇)「Hybrid iOS & Android apps with Rails」Tokyo Rubyist Meetup](https://trbmeetup.doorkeeper.jp/events/60637)
+* 2018/07/25 [(登壇)「Introducing Scratch to Rubyists」Tokyo Rubyist Meetup](https://trbmeetup.doorkeeper.jp/events/77042)
+* 2020/03/22 [(講演)「ML2Scratchと機械学習」琉球大学 オーガナイザー養成支援シンポジウム](https://www.gender.jim.u-ryukyu.ac.jp/db/wp-content/uploads/2020/03/jigyouhoukoku_sentan001.pdf)
+* 2020/04/15 [(登壇)「TensorFlow.js in Scratch」TensorFlow.js Community Show & Tell #1](https://www.youtube.com/watch?v=z05bjEEgVQc)
+* 2020/12/27 [(基調講演)「作りながら楽しく学ぶAIプログラミング」DojoCon Japan 2020](https://dojocon2020.coderdojo.jp/session)
 
 ## 出展・ワークショップ
 
-* 2011/12/05 [Make: Tokyo Meeting 07(スクラッチを使って親子でつくる体感ゲーム 出展)](https://www.oreilly.co.jp/pub/make/MTM07_makers.pdf)
-* 2018/03/31 [I-O DATA全国プログラミングキャラバン「プログラミング体験教室 -金沢-」(こども向けワークショップ講師)](https://www.iodata.jp/news/2018/information/programkanazawa.htm)
-* 2018/08/07 [Maker Faire Hong Kong(ML2Scratch 出展)](https://makerfairehongkong.com/2018pre/event-day/guidemap/gmcorecd/)
-* 2018/08/17 [Maker Faire Singapore(ML2Scratch 出展)](https://blog.champierre.com/1137)
-* 2018/08/26 [調布市、CoderDojo調布共催 小学生向けプログラミング入門講座(ワークショップ講師)](https://www.city.chofu.tokyo.jp/www/contents/1637728287309/simple/300805_1.pdf)
-* 2018/11/14 [Maker Faire Taipei(ML2Scratch 出展)](https://blog.champierre.com/1143)
-* 2019/03/24 [調布市、CoderDojo調布共催 小学生向けプログラミング入門講座(ワークショップ講師)](https://www.city.chofu.tokyo.jp/www/contents/1639111007252/simple/310305_0001.pdf)
-* 2019/08/25 [調布市、CoderDojo調布共催 小学生向けプログラミング入門講座(ワークショップ講師)](https://www.city.chofu.tokyo.jp/www/contents/1639111007252/simple/R000805_1.pdf)
-* 2019/10/28 [Maker Carnival Shanghai 2019(ML2Scratch 出展)](https://blog.champierre.com/1158)
-* 2019/12/22 [Afrel ロボ・キャンプ 2019 機械学習 × ScratchでAI（人工知能）アプリケーションを作ってみよう！(親子向けワークショップ講師)](https://afrel.co.jp/social/robocamp/2019_camp/result/)
-* 2023/03/26 [調布市、CoderDojo調布共催 小学生向けプログラミング&AI入門講座(ワークショップ講師)](https://www.city.chofu.tokyo.jp/www/contents/1677732923720/simple/s230305_05.pdf)
+* 2011/12/05 [(出展)「スクラッチを使って親子でつくる体感ゲーム」Make: Tokyo Meeting 07](https://www.oreilly.co.jp/pub/make/MTM07_makers.pdf)
+* 2018/03/31 [(こども向けワークショップ講師)「プログラミング体験教室 -金沢-」I-O DATA全国プログラミングキャラバン](https://www.iodata.jp/news/2018/information/programkanazawa.htm)
+* 2018/08/07 [(出展)「ML2Scratch - Connect Machine Learning(TensorFlow.js) to ScratchX」Maker Faire Hong Kong](https://makerfairehongkong.com/2018pre/event-day/guidemap/gmcorecd/)
+* 2018/08/17 [(出展)「ML2Scratch - Connect Machine Learning(TensorFlow.js) to ScratchX」Maker Faire Singapore](https://blog.champierre.com/1137)
+* 2018/08/26 [(ワークショップ講師)「小学生向けプログラミング入門講座」調布市、CoderDojo調布共催](https://www.city.chofu.tokyo.jp/www/contents/1637728287309/simple/300805_1.pdf)
+* 2018/11/14 [(出展)「ML2Scratch: Use Machine Learning on Scratch with TensorFlow.js and ScratchX」Maker Faire Taipei](https://blog.champierre.com/1143)
+* 2019/03/24 [(ワークショップ講師)「小学生向けプログラミング入門講座」調布市、CoderDojo調布共催](https://www.city.chofu.tokyo.jp/www/contents/1639111007252/simple/310305_0001.pdf)
+* 2019/08/25 [(ワークショップ講師)「小学生向けプログラミング入門講座」調布市、CoderDojo調布共催](https://www.city.chofu.tokyo.jp/www/contents/1639111007252/simple/R000805_1.pdf)
+* 2019/10/28 [(出展)「Control the DFRobot Maqueen Remote Car Using ML2Scratch for Image Recognition」Maker Carnival Shanghai 2019](https://blog.champierre.com/1158)
+* 2019/12/22 [(親子向けワークショップ講師)「機械学習 × ScratchでAI（人工知能）アプリケーションを作ってみよう！」Afrel ロボ・キャンプ 2019 ](https://afrel.co.jp/social/robocamp/2019_camp/result/)
+* 2023/03/26 [(ワークショップ講師)「小学生向けプログラミング&AI入門講座」調布市、CoderDojo調布共催](https://www.city.chofu.tokyo.jp/www/contents/1677732923720/simple/s230305_05.pdf)
 
 ## その他
 
