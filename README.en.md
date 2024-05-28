@@ -3,15 +3,16 @@
 * Blog: http://blog.champierre.com/
 
 ## Bio
-* 2013/12 - Machiquest(http://machique.st) CEO
-* 2010/6 - Tsukurusha(http://tsukurusha.com/) CEO
-* 2006/11 - Freelance, Web(using Ruby on Rails), iPhone(Objective C), Android(Java) application developer
-* 2005/6 - 2006/10 Unoh Inc., Web Director of Photozou(http://photozou.jp/) English version, and Eigaseikatsu(http://cinema.pia.co.jp/) .
-* 2004/10 - 2005/5 Genesys Japan Co., Ltd.(http://www.genesyslab.co.jp/) Technical Support Engineer
-* 2000/2 - 2004/9 Genesys Telecommunications Laboratories Inc. (http://www.genesyslab.com/) (Genesys headquarters, working in San Francisco, USA) Internationalization Quality Assurance Engineer
-* 1998/9 - 2000/1 Genesys Japan Co., Ltd.(http://www.genesyslab.co.jp/) QA engineer
-* 1995/4 - 1998/8 [iDC](https://ja.wikipedia.org/wiki/IDC%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2) Switch Engineer
-* 1995/3 Graduated from Mechano-Informatics Department of University of Tokyo
+* [2024/04 - present] Fellow at [Aoyama Creative Learning Lab](https://sites.google.com/view/tukumanalab/home), Project Associate Professor at Aoyama Gakuin University
+* [2013/12 - present] Machiquest(http://machique.st) CEO
+* [2010/06 - present] Tsukurusha(http://tsukurusha.com/) CEO
+* [2006/11 - 2010/05] Freelance, Web(using Ruby on Rails), iPhone(Objective C), Android(Java) application developer
+* [2005/06 - 2006/10] Unoh Inc., Web Director of Photozou(http://photozou.jp/) English version, and Eigaseikatsu(http://cinema.pia.co.jp/) .
+* [2004/10 - 2005/05] Genesys Japan Co., Ltd.(http://www.genesyslab.co.jp/) Technical Support Engineer
+* [2000/02 - 2004/09] Genesys Telecommunications Laboratories Inc. (http://www.genesyslab.com/) (Genesys headquarters, working in San Francisco, USA) Internationalization Quality Assurance Engineer
+* [1998/09 - 2000/01] Genesys Japan Co., Ltd.(http://www.genesyslab.co.jp/) QA engineer
+* [1995/04 - 1998/08] [iDC](https://ja.wikipedia.org/wiki/IDC%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2) Switch Engineer
+* 1995/03 Graduated from Mechano-Informatics Department of University of Tokyo
 
 ## Products / Services
 * ML2Scratch(https://github.com/champierre/ml2scratch)

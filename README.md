@@ -18,6 +18,7 @@
 * 2022/05 - 2023/04 [株式会社Geolonia](https://geolonia.com/) エンジニア
 * 2010/06 - 現在 [合同会社つくる社](http://tsukurusha.com/) 代表社員
 * 2013/12 - 現在 [株式会社まちクエスト](http://machique.st) 代表取締役社長
+* 2024/04 - 現在 [青学つくまなラボ](https://sites.google.com/view/tukumanalab/home)フェロー 青山学院大学総合文化政策学部プロジェクト准教授
 
 ## おもなプロダクト・サービス
 
