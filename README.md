@@ -42,7 +42,8 @@
 * 2017 - 2020 [Holoeyes - CTスキャンのデータをVRデバイス向け3Dデータに変換](https://holoeyes.jp/)のバックエンドの開発
 * 2020 - 2022 [くらそうね - 解体工事一括見積もりサービス](https://www.crassone.jp/)のバックエンドの開発
 * 2022 - 2023 [株式会社Geolonia](https://geolonia.com/)にて[住所オープンデータ](https://github.com/geolonia/japanese-addresses)などの開発を担当
-* 2023 - 現在 [請求もれを防ぐアプリ 保険簿](https://hokenbo.com/)のバックエンドの開発
+* 2023 - 2024 [請求もれを防ぐアプリ 保険簿](https://hokenbo.com/)のバックエンドの開発
+* 2024 - 現在 [株式会社Helpfeel](https://www.helpfeel.com/)にてFAQシステムの研究開発を担当
 
 ## 受賞歴
 * おでかけマペタ [Drecom Award on Rails 2006](http://itpro.nikkeibp.co.jp/article/NEWS/20060731/244792/)にて部門賞・審査員賞を受賞
@@ -57,6 +58,7 @@
 * 2020/06 [土日で学べる「AI&自動化」プログラミング](https://info.nikkeibp.co.jp/media/NSW/atcl/books/062200043/) (第1〜3章 執筆)
 * 2020/07 [Scratchではじめる機械学習](https://www.amazon.co.jp/gp/product/4873119189/) (共著)
 * 2022/07 [Scratchであそぶ機械学習](https://www.amazon.co.jp/gp/product/4873119960/) (共著)
+* 2024/07 [Scratchではじめる機械学習 第2版](https://www.amazon.co.jp/gp/product/4814400829/) (共著)
 
 ## メディア掲載
 * 2007 田口元の「ひとりで作るネットサービス」探訪：[「弁当の買い出し」でPCの面白さに目覚めた – あとで行く・石原淳也さん](http://bizmakoto.jp/bizid/articles/0705/23/news096.html)
