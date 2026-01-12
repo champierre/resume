@@ -18,6 +18,7 @@
 * 2022/05 - 2023/04 [株式会社Geolonia](https://geolonia.com/) エンジニア
 * 2010/06 - 現在 [合同会社つくる社](http://tsukurusha.com/) 代表社員
 * 2013/12 - 現在 [株式会社まちクエスト](http://machique.st) 代表取締役社長
+* 2024/04 - 現在 青山学院大学 総合文化政策学部 プロジェクト准教授 [青学つくまなラボ](https://sites.google.com/view/tukumanalab/)フェロー
 
 ## おもなプロダクト・サービス
 
@@ -41,7 +42,9 @@
 * 2017 - 2020 [Holoeyes - CTスキャンのデータをVRデバイス向け3Dデータに変換](https://holoeyes.jp/)のバックエンドの開発
 * 2020 - 2022 [くらそうね - 解体工事一括見積もりサービス](https://www.crassone.jp/)のバックエンドの開発
 * 2022 - 2023 [株式会社Geolonia](https://geolonia.com/)にて[住所オープンデータ](https://github.com/geolonia/japanese-addresses)などの開発を担当
-* 2023 - 現在 [請求もれを防ぐアプリ 保険簿](https://hokenbo.com/)のバックエンドの開発
+* 2023 - 2024 [請求もれを防ぐアプリ 保険簿](https://hokenbo.com/)のバックエンドの開発
+* 2024 - 2025 [株式会社Helpfeel](https://www.helpfeel.com/)にてAIプロダクトの研究開発
+* 2025 - 現在 [株式会社Jizai](https://jizai.ai/)にてAIプロダクトの開発
 
 ## 受賞歴
 * おでかけマペタ [Drecom Award on Rails 2006](http://itpro.nikkeibp.co.jp/article/NEWS/20060731/244792/)にて部門賞・審査員賞を受賞
@@ -80,6 +83,7 @@
 * 2020/03/22 [(講演)「ML2Scratchと機械学習」琉球大学 オーガナイザー養成支援シンポジウム](https://www.gender.jim.u-ryukyu.ac.jp/db/wp-content/uploads/2020/03/jigyouhoukoku_sentan001.pdf)
 * 2020/04/15 [(登壇)「TensorFlow.js in Scratch」TensorFlow.js Community Show & Tell #1](https://www.youtube.com/watch?v=z05bjEEgVQc)
 * 2020/12/27 [(基調講演)「作りながら楽しく学ぶAIプログラミング」DojoCon Japan 2020](https://dojocon2020.coderdojo.jp/session)
+* 2024/09/15 [(登壇)「CoderDojo 調布/渋谷の活動紹介: 3Dモデルから生成AIまで」DojoCon Japan 2024](https://dojocon2024.coderdojo.jp/sessions)
 
 ## 出展・ワークショップ
 
