@@ -83,7 +83,9 @@
 * 2020/03/22 [(講演)「ML2Scratchと機械学習」琉球大学 オーガナイザー養成支援シンポジウム](https://www.gender.jim.u-ryukyu.ac.jp/db/wp-content/uploads/2020/03/jigyouhoukoku_sentan001.pdf)
 * 2020/04/15 [(登壇)「TensorFlow.js in Scratch」TensorFlow.js Community Show & Tell #1](https://www.youtube.com/watch?v=z05bjEEgVQc)
 * 2020/12/27 [(基調講演)「作りながら楽しく学ぶAIプログラミング」DojoCon Japan 2020](https://dojocon2020.coderdojo.jp/session)
+* 2024/01/28 [(講演)「日本でのプログラミング/AI教育事情とStretch3」](https://x.com/jishiha/status/1751268992805986382)
 * 2024/09/15 [(登壇)「CoderDojo 調布/渋谷の活動紹介: 3Dモデルから生成AIまで」DojoCon Japan 2024](https://dojocon2024.coderdojo.jp/sessions)
+* 2025/06/24　(講義)「Scratch 向け AI 拡張機能を活用したプログラミング体験」埼玉県立総合教育センター 令和7年度 授業で使えるICT研修会(小学校)
 
 ## 出展・ワークショップ
 
